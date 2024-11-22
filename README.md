@@ -1,4 +1,4 @@
-# 国内最好 ChatGPT 镜像网站资源分享~  无需翻墙，无限使用ChatGPT-4、4o和o1【11月持续更新】
+# 国内最好 ChatGPT 镜像网站资源分享~  无需翻墙，无限使用ChatGPT-4、4o和o1-preview【11月持续更新】
 
 > 更新时间：2024/11/23 <br />
 > 作者：gptchinese

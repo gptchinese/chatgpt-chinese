@@ -1,7 +1,7 @@
 # 国内最好 ChatGPT 镜像网站资源分享~  无限使用ChatGPT-4、4o和o1-preview【12月持续更新】
 
 > 更新时间：2024/12/28 <br />
-> 作者：gptchinese  
+> 作者：gptchinese 
 
 国内可以直接使用**ChatGPT镜像网站**！**无需翻墙，无限使用GPT-4、GPT-4o和o1-preview**<br /> 
 我们为大家整理了一些国内可用的 **ChatGPT镜像网站**，方便用户无需翻墙即可使用 <br />
